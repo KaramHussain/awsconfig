@@ -1,0 +1,13 @@
+# Terraform
+.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+.terraform
+# Sensitive Data
+terraform.tfvars
+*.tfvars.json
+
+# System Files
+.DS_Store
