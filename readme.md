@@ -76,6 +76,6 @@ This Terraform project sets up AWS Config rules to monitor and enforce two criti
 
 ## Important Considerations:
 
-* **Remediation:** Implement automated remediation for efficient compliance enforcement.
+
 * **Notifications:** Integrate with Amazon SNS to receive timely alerts.
 * **Custom Rules:** Create tailored rules with AWS Lambda for specific use cases.
